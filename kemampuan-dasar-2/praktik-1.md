@@ -1,5 +1,5 @@
-# Getting Started - Alice Scenario
-## Step 1 Creates a new project and hosts it on GitHub
+# Getting Started
+## Step 1 - Creates a new project and hosts it on GitHub
 ### Create folder for your project
 ```
 luthfir97@MLuthfirRY50:~$ mkdir rhymes 
@@ -63,3 +63,5 @@ luthfir97@MLuthfirRY50:~/rhymes$ git commit "Add All Song"
 luthfir97@MLuthfirRY50:~/rhymes$ git remote add origin https://github.com/MLuthfirR/rhyme.git
 luthfir97@MLuthfirRY50:~/rhymes$ git push -u origin master
 ```
+## Step 2 - Copies project, then submits some simple changes
+### 
