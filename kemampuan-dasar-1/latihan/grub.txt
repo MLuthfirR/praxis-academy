@@ -1,0 +1,5 @@
+1. *Ubuntu
+2. Advance options for ubuntu
+3. Windows boot manager (on /dev/sda2)
+3. System setup
+

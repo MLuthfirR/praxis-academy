@@ -1,0 +1,23 @@
+1. /bin = tempat untuk perintah "command" yang sering digunakan
+2. /boot = berisi file yang dibutuhkan untuk startup sistem
+3. /dev = berisi semua file perangkat (file sistem hardware)
+4. /etc = mengandung file konfigurasi system-global, dimana hal ini mempengaruhi perilaku sistem untuk semua user
+5. /home = direktori home user
+6. /lib = berisi library yang penting dan modul kernel
+7 /media = mount point perangkat external
+8. /mnt = sama seperti media hanya saja dispesifikkan untuk "temporarily mounted" devices seperti network filesystem
+9. /opt = untuk menyimpan software tambahan
+10. /proc = filesyste virtual yang menyediakan sebuah mekanisme pengiriman pesan pada kernel
+11. /root = direktori superuser
+12. /run = tmpfs untuk proses booting
+13. /sbin = berisi perintah administrative penting
+14. /srv = bisa mengandung direktori data pelayanan seperti HTTP / FTP
+15. /sys = virtual filesystem 
+16. /tmp = tempat file sementara yang digunakan oleh apliaksi
+17. /usr = mengandung mayoritas aplikasi user
+18. /var = dedicated variable data.
+
+uname -a = 
+
+Linux MLuthfirRY50 5.0.0-27-generic #28~18.04.1-Ubuntu SMP Thu Aug 22 03:00:32 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux
+
