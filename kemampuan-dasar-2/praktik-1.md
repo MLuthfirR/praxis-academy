@@ -1,5 +1,5 @@
 # Getting Started - Alice Scenario
-
+## Step 1 Creates a new project and hosts it on GitHub
 ### Create folder for your project
 ```
 luthfir97@MLuthfirRY50:~$ mkdir rhymes 
@@ -39,11 +39,11 @@ luthfir97@MLuthfirRY50:~/rhymes$ git commit -m 'Added project overview to README
 
 ### Download Alice favorite rhymes.
 ```
-luthfir97@MLuthfirRY50:~/rhymes$ wget https://www.acquia.com/sites/default/files/blog/all-around-the-mulberry-bush.txt
-luthfir97@MLuthfirRY50:~/rhymes$ wget https://www.acquia.com/sites/default/files/blog/jack-and-jill.txt
-luthfir97@MLuthfirRY50:~/rhymes$ wget https://www.acquia.com/sites/default/files/blog/old-mother-hubbard.txt
-luthfir97@MLuthfirRY50:~/rhymes$ wget https://www.acquia.com/sites/default/files/blog/twinkle-twinkle.txt
-luthfir97@MLuthfirRY50:~/rhymes$ wget https://www.acquia.com/sites/default/files/blog/hokey-pokey.txt
+luthfir97@MLuthfirRY50:~/rhymes$ wget https://github.com/bryanhirsch/rhymes/blob/master/all-around-the-mulberry-bush.txt
+luthfir97@MLuthfirRY50:~/rhymes$ wget https://github.com/bryanhirsch/rhymes/blob/master/jack-and-jill.txt
+luthfir97@MLuthfirRY50:~/rhymes$ wget https://github.com/bryanhirsch/rhymes/blob/master/old-mother-hubbard.txt
+luthfir97@MLuthfirRY50:~/rhymes$ wget https://github.com/bryanhirsch/rhymes/blob/master/twinkle-twinkle.txt
+luthfir97@MLuthfirRY50:~/rhymes$ wget https://github.com/bryanhirsch/rhymes/blob/master/hokey-pokey.txt
 ``` 
 
 ### Final Task
@@ -60,6 +60,6 @@ luthfir97@MLuthfirRY50:~/rhymes$ git commit "Add All Song"
 
 ### Now, lets make the repo up in Github
 ```
-luthfir97@MLuthfirRY50:~/rhymes$ git remote add origin [Your Repo Link]
-luthfir97@MLuthfirRY50:~/rhymes$ git push origin master
+luthfir97@MLuthfirRY50:~/rhymes$ git remote add origin https://github.com/MLuthfirR/rhyme.git
+luthfir97@MLuthfirRY50:~/rhymes$ git push -u origin master
 ```
