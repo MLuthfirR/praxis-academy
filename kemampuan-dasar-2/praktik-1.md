@@ -18,8 +18,10 @@ luthfir97@MLuthfirRY50:~/rhymes$ git add *
 luthfir97@MLuthfirRY50:~/rhymes$ git commit -m "First Commit"
 ```
 
-# Add some random explanation about the project to the README file.
+### Add some random explanation about the project to the README file.
+```
 luthfir97@MLuthfirRY50:~/rhymes$ echo 'HUEHUEHUEHUEHU.' >> README.txt
+```
 
 ### Commit and Push
 ```
