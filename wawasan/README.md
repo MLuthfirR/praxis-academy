@@ -118,3 +118,28 @@ Ada beberapa roles dalam metode SCRUM
 3. Scrum Master
 
 ### Wikipedia - Extreme Pro
+#### Goals
+Goals pada XP adalah menekan biaya perubahan requirement dengan cara membuat Development cycle menjadi lebih pendek di tiap cyclenya.
+
+#### Activities
+1. Coding
+2. Testing
+3. Listening
+4. Designing
+
+#### Rules
+1. Coding
+
+    1. The customer is always available
+    2. Code the unit test first
+    3. Only one pair integrates code at a time
+    4. Leave optimization until last
+    5. No overtime
+
+2. Testing
+
+    1. All code must have unit tests
+    2. All code must pass all unit tests before it can be released.
+    3. When a bug is found, tests are created before the bug is addressed (a bug is not an error in logic; it is a test that was not written)
+    4. Acceptance tests are run often and the results are published
+
