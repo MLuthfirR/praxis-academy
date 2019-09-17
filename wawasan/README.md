@@ -76,3 +76,45 @@ Secara umum, Software dibagi menjadi 3, yaitu
 ```
     Tahap ini merupakan tahap perbaikan dan bug fixing. biasanya setelah software di deliver suka timbul masalah2 seperti BUG.
 ```
+
+### Wikipedia - Agile Software Development
+#### Agile SD Values
+1. Individuals and Interactions
+2. Working Software
+3. Customer Collaboration
+4. Responding to Change
+
+#### Agile SD Principles
+1. Customer satisfaction by early and continuous delivery of valuable software.
+2. Welcome changing requirements, even in late development.
+3. Deliver working software frequently (weeks rather than months)
+4. Close, daily cooperation between business people and developers
+5. Projects are built around motivated individuals, who should be trusted
+6. Face-to-face conversation is the best form of communication (co-location)
+7. Working software is the primary measure of progress
+8. Sustainable development, able to maintain a constant pace
+9. Continuous attention to technical excellence and good design
+10. Simplicity—the art of maximizing the amount of work not done—is essential
+11. Best architectures, requirements, and designs emerge from self-organizing teams
+12. Regularly, the team reflects on how to become more effective, and adjust accordingly
+
+#### Perbedaan Agile dengan Waterfall
+##### Waterfall
+```
+    Tahapan testing dengan tahapan implementasi dilakukan pada iterasi yang terpisah, sehingga sangat merepotkan apabila ada perubahan requirement dari klien
+```
+##### Agile
+```
+    Berbeda dengan Waterfall, pada metode agile tahapan testing dengan implementasi dilakukan pada iterasi yang sama. sehingga sangat fleksibel apabila ada perubahan requirement.
+```
+
+### Wikipedia - SCRUM
+Metode SCRUM merupakan Framework dari metode Agile. pada metode SCRUM terdapat beberapa iterasi dengan goal yang berbeda. hal ini disebut sebagai SPRINT. setiap hari Scrum Master mengadakan Stand-up meetings yang disebut sebagai daily scrums
+
+#### Roles
+Ada beberapa roles dalam metode SCRUM
+1. Product Owner
+2. Dev Team
+3. Scrum Master
+
+### Wikipedia - Extreme Pro
